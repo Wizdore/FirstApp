@@ -1,0 +1,20 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "My very first Node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "First",
+    "random",
+    "test"
+  ],
+  "author": "Shaon Rahman",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
